@@ -58,7 +58,7 @@
 <script src="https://cdn.bootcss.com/jquery-cookie/1.4.1/jquery.cookie.min.js"></script>
 <%--cdn获取 jq countdown操作插件--%>
 <script src="https://cdn.bootcss.com/jquery.countdown/2.2.0/jquery.countdown.min.js"></script>
-<script src="/resources/script/seckill.js" type="text/javascript"></script>
+<script src="/seckill/resources/script/seckill.js" type="text/javascript"></script>
 <script type="text/javascript">
     $(function () {
         //使用EL表达式传入参数
